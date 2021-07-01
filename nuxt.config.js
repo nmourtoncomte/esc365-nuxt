@@ -54,10 +54,4 @@ export default {
   eslint: {
     fix: true,
   },
-  // Test
-  // Server configuration
-  server: {
-    port: process.env.PORT, // default: 3000
-    host: process.env.HOST, // default: localhost
-  },
 }
